@@ -1,25 +1,32 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://universal-unit-convertly.streamlit.app)
 
-
 # Universal Unit Convertly
 
-A web-based unit conversion application that allows users to convert between different units of measurement quickly and accurately.
+Universal Unit Convertly is a backend-oriented unit conversion service exposed through a lightweight web interface. The project focuses on clean business logic, extensibility, and production-ready structure.
 
-## 🚀 Live App
+## 🌐 Live Demo
 👉 https://universal-unit-convertly.streamlit.app
 
-## 📌 Features
-- Convert between common units (kilometers, meters, miles, feet)
-- Simple and intuitive interface
-- Fast, accurate results
-- Built for web and mobile browsers
+## 🎯 Backend Focus
+This project was designed with backend principles in mind:
+- Clear separation between business logic and presentation
+- Modular conversion engine
+- Easily extensible for API or microservice deployment
+
+## 🧠 Architecture
+- Conversion logic isolated from UI
+- Stateless operations
+- Deterministic outputs for reliable computation
 
 ## 🛠️ Tech Stack
 - Python
-- Streamlit
+- Streamlit (UI layer)
 
-## 📂 Project Status
-Actively maintained and open for improvement.
+## 📈 Planned Backend Extensions
+- REST API (FastAPI)
+- Input validation and error handling
+- Unit test coverage
+- Rate limiting and caching
 
 ## 📄 License
 Unlicense

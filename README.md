@@ -9,7 +9,7 @@ A web-based unit conversion application that allows users to convert between dif
 👉 https://universal-unit-convertly.streamlit.app
 
 ## 📌 Features
-- Convert between common units (length, weight, temperature, etc.)
+- Convert between common units (kilometers, meters, miles, feet)
 - Simple and intuitive interface
 - Fast, accurate results
 - Built for web and mobile browsers

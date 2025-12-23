@@ -1,3 +1,6 @@
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://universal-unit-convertly.streamlit.app)
 
  Universal Unit Convertly
@@ -30,4 +33,4 @@ This project was designed with backend principles in mind:
 - Rate limiting and caching
 
 ## 📄 License
-Unlicense
+MIT License

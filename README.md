@@ -10,7 +10,7 @@ Universal Unit Convertly is a backend-oriented unit conversion service exposed t
  🌐 Live Demo
 
    
-   https://universal-unit-convertly.streamlit.app
+   https://unit-convertly.streamlit.app
 
  🎯 BACKEND FOCUS
 This project was designed with backend principles in mind:

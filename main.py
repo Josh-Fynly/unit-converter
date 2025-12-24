@@ -1,6 +1,6 @@
 # main.py
 import streamlit as st
-import conversions as cv  # We import our logic file
+from core import conversions as cv  # We import our logic file
 
 # Page Configuration
 st.set_page_config(page_title="Unit Converter", page_icon="⚖️")
